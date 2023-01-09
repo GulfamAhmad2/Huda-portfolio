@@ -11,7 +11,7 @@ class Nav extends Component {
     <>
       <header>
         <nav className="nav">
-          <Link to="/#home" className="logo">
+          <Link to="/" className="logo">
             Huda..
           </Link>
           <div className="nav-menu">
