@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Full Responsive Huda-Protfolio
+- Develope first for mobile then desktop
+- designed by Richa Banka
+
+![Desktop - 1](https://user-images.githubusercontent.com/112485199/211335678-6f573b50-1e47-4ce5-a23a-815e83aaac09.png)
+
 
 ## Available Scripts
 
