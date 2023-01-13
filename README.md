@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-- live[https://huda-portfolio.netlify.app/]
+- [live](https://huda-portfolio.netlify.app/)
 - Full Responsive Huda-Protfolio
 - Develope first for mobile then desktop
 - designed by Richa Banka
